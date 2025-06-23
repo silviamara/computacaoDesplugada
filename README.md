@@ -1,0 +1,2 @@
+# computacaoDesplugada
+Computação sem conexão
